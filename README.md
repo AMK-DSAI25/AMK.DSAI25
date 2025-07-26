@@ -5,4 +5,5 @@
 🌍 I'm also learning German 🇩🇪 to continue my education or career in Germany.  
 📚 Currently building projects and preparing for internships & freelancing.  
 🧠 Interested in AI, automation, and solving real-world problems with data.
+
 Reach me at: amk.datasci@gmail.com
